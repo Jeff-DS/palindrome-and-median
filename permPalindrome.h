@@ -1,0 +1,2 @@
+-(BOOL)isPermPalindrome:(NSString *)original ofString:(NSString *)modified;
+-(NSMutableArray *)split:(NSString *)string;
